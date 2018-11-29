@@ -7,7 +7,7 @@ The system measures 3000-9000 salmon per day.
 <picture>
   <source srcset="/img/camera.webp" type="image/webp">
   <source srcset="/img/camera.jpg" type="image/jpeg"> 
-  <img src="/img/camera.webpjpg">
+  <img src="/img/camera.webp">
 </picture>
 
 [The user guide for BIO3000 is under construction](https://bio3000.github.io/index.html)
