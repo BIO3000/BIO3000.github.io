@@ -10,8 +10,16 @@ The system measures 3000-9000 salmon per day.
   <img src="/img/camera.webp">
 </picture>
 
+Power BI for BIO3000 provides performs comparative, predictave and statistical analysis on collected measuremnts over time.
+
+The sample report page shows average growth of meaurements over different time periods
+
+<img src="/img/growth-page.jpg" />
+
+
+
 [The user guide for BIO3000 is under construction](https://bio3000.github.io/index.html)
 
-The demo data used in this user guide is available in [Power BI](app.powerbi.com).
+A demo version is available in [Power BI](app.powerbi.com).
  
 MailTo: dan.ole.vikesaa@langset.no to obtain access to the demo in Power BI
