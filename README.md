@@ -14,7 +14,7 @@ Power BI for BIO3000 performs comparative, predictave and statistical analysis o
 
 The sample report page shows average growth of meaurements over different time periods
 
-<img src="/img/growth-page.jpg"  height="600" width="300"/>
+<img src="/img/growth-page.jpg"  height="500" width="900"/>
 
 [The user guide for BIO3000 is under construction](https://bio3000.github.io/index.html)
 
