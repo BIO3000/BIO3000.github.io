@@ -4,9 +4,14 @@ BIO3000 is a biomass estimator for farmed Atlantic salmon
 
 The system measures 3000-9000 salmon per day.
 
-<img src="/img/camera.webp" />
+<picture>
+  <source srcset="/img/camera.webp" type="image/webp">
+  <source srcset="/img/camera.jpg" type="image/jpeg"> 
+  <img src="/img/camera.webpjpg">
+</picture>
 
 [The user guide for BIO3000 is under construction](https://bio3000.github.io/index.html)
 
-The demo data used in this user guide is available in [Power BI](app.powerbi.com) 
+The demo data used in this user guide is available in [Power BI](app.powerbi.com).
+ 
 MailTo: dan.ole.vikesaa@langset.no to obtain access to the demo in Power BI
