@@ -1,5 +1,5 @@
 # Power BI for BIO3000 User Guide
-Testing
+
 BIO3000 is a biomass estimator for farmed Atlantic salmon
 
 The system measures 3000-9000 salmon per day.
@@ -10,14 +10,9 @@ The system measures 3000-9000 salmon per day.
   <img src="/img/camera.webp">
 </picture>
 
-Power BI for BIO3000 performs comparative, predictave and statistical analysis on collected measurements over time.
-
-<iframe src="https://www.w3schools.com"></iframe>
-
-<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiMTdhMGExZWItMzIzMi00MmFiLWI4OTItMTRkYThlOGM0ODA1IiwidCI6ImZhMWRhNjI0LTkwNDktNGY0My1hYmQ1LTk3MGNiNTc4YThjNiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+Power BI for BIO3000 performs comparative, predictive and other statistical analysis for decision making on a set of collected measurements over time.
 
 The sample report page shows average growth of meaurements over different time periods
-
 
 <img src="/img/growth-page.jpg"  height="500" width="900"/>
 
@@ -25,4 +20,4 @@ The [user guide for BIO3000](https://bio3000.github.io/index.html)  is under con
 
 Visit the [BIO3000 home page](https://www.bio3000.no/home)  for further information
 
-[Request a demo](https://www.bio3000.no/contact) and try it out in [Power BI](app.powerbi.com)
+[Request a demo](https://www.bio3000.no/contact) or try it out live in [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTdhMGExZWItMzIzMi00MmFiLWI4OTItMTRkYThlOGM0ODA1IiwidCI6ImZhMWRhNjI0LTkwNDktNGY0My1hYmQ1LTk3MGNiNTc4YThjNiIsImMiOjl9)
