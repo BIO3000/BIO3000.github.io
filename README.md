@@ -20,4 +20,5 @@ The [user guide for BIO3000](https://bio3000.github.io/index.html)  is under con
 
 Visit the [BIO3000 home page](https://www.bio3000.no/home)  for further information
 
-[Request a demo](https://www.bio3000.no/contact) or try it out live in [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTdhMGExZWItMzIzMi00MmFiLWI4OTItMTRkYThlOGM0ODA1IiwidCI6ImZhMWRhNjI0LTkwNDktNGY0My1hYmQ1LTk3MGNiNTc4YThjNiIsImMiOjl9)
+[Request a demo](https://www.bio3000.no/contact) or try it out live in [Power BI]
+(https://app.powerbi.com/view?r=eyJrIjoiNDI2NzViOGYtYWRhMC00NTk1LTlkNzAtODA1ZGQyYzJlYmM2IiwidCI6ImZhMWRhNjI0LTkwNDktNGY0My1hYmQ1LTk3MGNiNTc4YThjNiIsImMiOjl9)
