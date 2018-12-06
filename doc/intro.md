@@ -1,8 +1,6 @@
 <!-- Shows first report page -->
 This is a full interactive of Power BI for BIO300.
 The demo uses real data for a period of three months from thre cages and two anonymized locations
-
-
 <iframe 
 	width="800" 
 	height="506" 
