@@ -11,5 +11,3 @@ The demo uses real data for a period of three months from thre cages and two ano
 	frameborder="0" 	
 	allowFullScreen="true">
 </iframe>
-
-
